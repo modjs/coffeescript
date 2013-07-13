@@ -1,4 +1,4 @@
-coffeescript
-============
+mod-coffeescript
+===
 
-compile cofeescript to javascript
+Compile coffeescript files to javascript
